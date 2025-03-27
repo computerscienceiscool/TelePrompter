@@ -2,8 +2,6 @@
 
 A browser-based teleprompter application designed for professional presentations, videos, and speeches. This teleprompter helps maintain eye contact with your audience or camera by positioning text near your webcam.
 
-![Teleprompter Demo](https://via.placeholder.com/800x400?text=Teleprompter+Demo)
-
 ## Live Demo
 
 Check out the live teleprompter: [https://computerscienceiscool.github.io/TelePrompter/teleprompter-website.html](https://computerscienceiscool.github.io/TelePrompter/teleprompter-website.html)
