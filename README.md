@@ -75,10 +75,6 @@ No build process or server setup required!
 
 MIT License - Feel free to use, modify, and distribute as needed.
 
-## Acknowledgments
-
-- Built with assistance from AI tools
-- File format libraries: Mammoth.js, PDF.js, and Marked
 
 ---
 
