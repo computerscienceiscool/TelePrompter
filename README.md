@@ -1,13 +1,10 @@
 # Professional Web-Based Teleprompter
-
 A browser-based teleprompter application designed for professional presentations, videos, and speeches. This teleprompter helps maintain eye contact with your audience or camera by positioning text near your webcam.
 
 ## Live Demo
-
 Check out the live teleprompter: [https://computerscienceiscool.github.io/TelePrompter/teleprompter-website.html](https://computerscienceiscool.github.io/TelePrompter/teleprompter-website.html)
 
 ## Features
-
 - **Professional Positioning**: Optimized for placement near your webcam for natural eye contact
 - **Adjustable Scrolling**: Variable speed control from slow practice mode to professional speaking rates
 - **Multiple File Formats**: Support for TXT, DOCX, PDF, and Markdown files
@@ -19,7 +16,7 @@ Check out the live teleprompter: [https://computerscienceiscool.github.io/TelePr
 
 ## Usage
 
-1. Visit the [Teleprompter App](https://computerscienceiscool.github.io/TelePrompter/teleprompter-website.html)
+1. Visit the [Teleprompter Page](https://computerscienceiscool.github.io/TelePrompter/teleprompter-website.html)
 2. Enter your script in the text area or upload a file
 3. Adjust font size, theme, and scroll speed to your preference
 4. Position your browser window near your camera
@@ -27,14 +24,12 @@ Check out the live teleprompter: [https://computerscienceiscool.github.io/TelePr
 6. Use the pause and reset buttons as needed during your presentation
 
 ## Speed Settings
-
 - **Slow**: For practicing and memorization
 - **Medium**: For casual presentations and speeches
 - **Fast**: For experienced presenters
 - **Pro**: For professional broadcasting and experienced users
 
 ## Customization
-
 - Font size range: 16px - 48px
 - Themes: Light mode (white background) or Dark mode (black background)
 - Container height: Resize by dragging the bottom handle
@@ -51,7 +46,6 @@ This teleprompter is built with standard web technologies:
   - Marked for Markdown processing
 
 ## Browser Compatibility
-
 Tested and working on:
 - Chrome (latest)
 - Firefox (latest)
@@ -59,7 +53,6 @@ Tested and working on:
 - Safari (latest)
 
 ## Local Development
-
 To run locally:
 
 1. Clone this repository
@@ -72,7 +65,6 @@ git clone https://github.com/computerscienceiscool/teleprompter.git
 No build process or server setup required!
 
 ## License
-
 MIT License - Feel free to use, modify, and distribute as needed.
 
 
